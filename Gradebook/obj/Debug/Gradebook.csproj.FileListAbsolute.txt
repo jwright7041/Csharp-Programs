@@ -1,0 +1,7 @@
+C:\Users\Jacob\Desktop\C#-Programs\Gradebook\bin\Debug\Gradebook.exe.config
+C:\Users\Jacob\Desktop\C#-Programs\Gradebook\bin\Debug\Gradebook.exe
+C:\Users\Jacob\Desktop\C#-Programs\Gradebook\bin\Debug\Gradebook.pdb
+C:\Users\Jacob\Desktop\C#-Programs\Gradebook\obj\Debug\Gradebook.csprojAssemblyReference.cache
+C:\Users\Jacob\Desktop\C#-Programs\Gradebook\obj\Debug\Gradebook.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Desktop\C#-Programs\Gradebook\obj\Debug\Gradebook.exe
+C:\Users\Jacob\Desktop\C#-Programs\Gradebook\obj\Debug\Gradebook.pdb
