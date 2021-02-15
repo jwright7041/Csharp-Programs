@@ -1,0 +1,7 @@
+C:\Users\Jacob\Desktop\C#-Programs\PoCos\bin\Debug\PoCos.exe.config
+C:\Users\Jacob\Desktop\C#-Programs\PoCos\bin\Debug\PoCos.exe
+C:\Users\Jacob\Desktop\C#-Programs\PoCos\bin\Debug\PoCos.pdb
+C:\Users\Jacob\Desktop\C#-Programs\PoCos\obj\Debug\PoCos.csprojAssemblyReference.cache
+C:\Users\Jacob\Desktop\C#-Programs\PoCos\obj\Debug\PoCos.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Desktop\C#-Programs\PoCos\obj\Debug\PoCos.exe
+C:\Users\Jacob\Desktop\C#-Programs\PoCos\obj\Debug\PoCos.pdb
