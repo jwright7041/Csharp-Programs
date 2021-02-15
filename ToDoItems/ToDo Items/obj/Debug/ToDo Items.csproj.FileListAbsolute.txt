@@ -1,0 +1,7 @@
+C:\Users\Jacob\Desktop\C#-Programs\ToDoItems\ToDo Items\bin\Debug\ToDo Items.exe.config
+C:\Users\Jacob\Desktop\C#-Programs\ToDoItems\ToDo Items\bin\Debug\ToDo Items.exe
+C:\Users\Jacob\Desktop\C#-Programs\ToDoItems\ToDo Items\bin\Debug\ToDo Items.pdb
+C:\Users\Jacob\Desktop\C#-Programs\ToDoItems\ToDo Items\obj\Debug\ToDo Items.csprojAssemblyReference.cache
+C:\Users\Jacob\Desktop\C#-Programs\ToDoItems\ToDo Items\obj\Debug\ToDo Items.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Desktop\C#-Programs\ToDoItems\ToDo Items\obj\Debug\ToDo Items.exe
+C:\Users\Jacob\Desktop\C#-Programs\ToDoItems\ToDo Items\obj\Debug\ToDo Items.pdb
