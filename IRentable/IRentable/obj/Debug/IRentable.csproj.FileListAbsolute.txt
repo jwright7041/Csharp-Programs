@@ -1,0 +1,7 @@
+C:\Users\Jacob\Desktop\C#-Programs\IRentable\IRentable\bin\Debug\IRentable.exe.config
+C:\Users\Jacob\Desktop\C#-Programs\IRentable\IRentable\bin\Debug\IRentable.exe
+C:\Users\Jacob\Desktop\C#-Programs\IRentable\IRentable\bin\Debug\IRentable.pdb
+C:\Users\Jacob\Desktop\C#-Programs\IRentable\IRentable\obj\Debug\IRentable.csprojAssemblyReference.cache
+C:\Users\Jacob\Desktop\C#-Programs\IRentable\IRentable\obj\Debug\IRentable.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Desktop\C#-Programs\IRentable\IRentable\obj\Debug\IRentable.exe
+C:\Users\Jacob\Desktop\C#-Programs\IRentable\IRentable\obj\Debug\IRentable.pdb
