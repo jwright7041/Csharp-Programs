@@ -13,6 +13,7 @@ namespace Checkers_Sample
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
             ///TODO: Start the game
+            
 			Game newGame = new Game();
             newGame.Start();
             Console.ReadLine();

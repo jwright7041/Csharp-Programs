@@ -28,43 +28,41 @@ namespace Checkers_Sample
                     Checker c = new Checker(Color.Black, (r + 5), r % 2 + i);
                     checkers.Add(c);
                 }
-
-                ///NOTE: Can we combine the two "for" loops above into one "for" loop?
-
-
             }
         }
         #endregion
 
         #region Methods
-        public Checker GetChecker(Position source)
+        public Checker GetChecker(Position source)  //locates checker in the source position, returns null if source contains no checker
         {
             
             foreach (Checker c in checkers)
             {
                 //Fill in the blanks in the if statement below
-                if (c.Position.Row == (______) && c.Position.Column == (______))
+                if (c.Position.Row == source.Row && c.Position.Column == source.Column)
                 {
                     return c;
                 }
             }
             //make sure all code paths return a value; what happens if the above condition is not met.  Can the method return a Checker?
-
+            return null;
         }
 
         public void MoveChecker(Checker checker, Position destination)
         {
             Checker c = new Checker(checker.Team, destination.Row, destination.Column);
             //Add the checker to our list of checkers.
+            checkers.Add(c);
             checkers.Remove(checker);
         }
 
         public void RemoveChecker(Checker checker)
         {
             //Fill in the blank in the logic
-            if (checker (___) null)
+            if (checker != null)
             {
                 //Remove the checker from our list of checkers.
+                checkers.Remove(checker);
             }
         }
 

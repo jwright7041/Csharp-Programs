@@ -15,16 +15,18 @@ namespace Checkers_Sample
         {
             if (player == Color.Black)
             {
-                int symbol = int.Parse("25CB", System.Globalization.NumberStyles.HexNumber);
+                int symbol = int.Parse("25CF", System.Globalization.NumberStyles.HexNumber);
                 Symbol = char.ConvertFromUtf32(symbol);
                 Team = Color.Black;
             }
             else
             {
-                //Fill in the code for the other symbol here.
+                int symbol = int.Parse("25CB", System.Globalization.NumberStyles.HexNumber);
+                Symbol = char.ConvertFromUtf32(symbol);
+                Team = Color.White;
             }
-            ///Set a position for eack new checker that is instantiated.
-            
+            //Set a position for eack new checker that is instantiated.
+            Position = new Position(row, col);
         }
     }
     #endregion
